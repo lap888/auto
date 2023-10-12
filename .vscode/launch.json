@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "autojs",
+            "request": "launch",
+            "stopOnEntry": true,
+            "device": "d1d8c62eb9742a29",
+            "name": "[Auto.js Pro调试]Redmi 22081212C d1d8c62eb9742a29"
+        },
+        {
+            "type": "autojs",
+            "request": "launch",
+            "stopOnEntry": true,
+            "device": "d1d8c62eb9742a29",
+            "name": "1-1"
+        }
+    ]
+}
